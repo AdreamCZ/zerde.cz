@@ -16,7 +16,7 @@
 #galleria-loader{height:1px!important}
 
 body{
-    background : linear-gradient(to bottom right,rgb(255, 248, 244),rgb(245, 236, 231));
+    background : black;/** linear-gradient(to bottom right,rgb(255, 248, 244),rgb(245, 236, 231)); **/
     margin: 0px;
 }
 
