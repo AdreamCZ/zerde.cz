@@ -75,7 +75,7 @@ div .buttonBox{
 
 .info{
     padding-left: 30%;
-    color:black;
+    color:white;
     text-align: center;
     font-family: sans-serif;
     margin-top : 0px;
@@ -85,6 +85,11 @@ div .buttonBox{
 
 h1{
     margin-top:0px;
+}
+
+.footer{
+    color:black;
+    font-size:10px;
 }
 
 
