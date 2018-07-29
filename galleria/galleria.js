@@ -9,6 +9,11 @@
  */
 
 (function( $, window, Galleria, undef ) {
+    
+
+    var fs = require('fs');
+var files = fs.readdirSync('/assets/photos/');
+    alert(fs);
 
 /*global jQuery, navigator, Image, module, define */
 
