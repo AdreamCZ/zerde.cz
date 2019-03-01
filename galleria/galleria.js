@@ -9,6 +9,7 @@
  */
 
 (function( $, window, Galleria, undef ) {
+    
 
 /*global jQuery, navigator, Image, module, define */
 
