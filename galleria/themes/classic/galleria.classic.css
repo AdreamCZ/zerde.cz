@@ -13,6 +13,11 @@
     src: URL('fonts/Ananda.ttf') format('ttf');
   }
 
+#info p{
+  font-family: 'ananda';
+  color:white;
+}
+
 #galleria-loader{height:1px!important}
 
 body{
