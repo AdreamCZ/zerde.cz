@@ -13,9 +13,17 @@
     src: URL('fonts/Ananda.ttf') format('ttf');
   }
 
-#info p{
-  font-family: 'ananda';
-  color:white;
+p{
+    font-size: 2em;
+    color:white;
+    font-family: Niconne,sans-serif;
+}
+
+h1{
+    text-decoration: underline;
+    font-size: 3em;
+    color:white;
+    font-family: Niconne,sans-serif;
 }
 
 #galleria-loader{height:1px!important}
