@@ -4984,6 +4984,10 @@ this.prependChild( 'info', 'myElement' );
             return function() {
 
                 var win;
+                
+                //Delete the loading text
+                var loadingText = document.getElementById("loading")
+                loadingText.remove();
 
                 _transitions.active = false;
 
